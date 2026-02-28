@@ -1,0 +1,11 @@
+[project]
+name = "behavioral-customer-analytics-platform"
+version = "0.1.0"
+requires-python = ">=3.10,<3.12"
+dependencies = [
+    "streamlit==1.32.0",
+    "pandas==2.1.4",
+    "plotly==5.18.0",
+    "numpy==1.26.2",
+    "scikit-learn==1.3.2"
+]
